@@ -5,7 +5,7 @@ import pandas as pd
 import tkinter as tk
 from bs4 import BeautifulSoup as bs
 
-#"C:\Users\Maximilian Mittmann\PycharmProjects\7 Hills\financewebscrape\venv\Scripts\python.exe" -m PyInstaller --onefile StatisticsScrape.py --windowed
+#"\python.exe" -m PyInstaller --onefile StatisticsScrape.py --windowed
 
 old_stock_csv_filepath = "stock_info.csv"
 
